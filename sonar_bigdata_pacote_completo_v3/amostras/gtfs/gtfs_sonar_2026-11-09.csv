@@ -1,0 +1,9 @@
+tipo_registro,codigo_id,codigo_letreiro,nome_descritivo,bairro_ou_operadora,latitude,longitude,possui_sonar_ponto,data_referencia
+LINHA,1273,971D-10,TERM. CARRÃO,Consórcio Plus,,,,2026-11-09
+LINHA,2541,4310-10,TERM. PQ. D. PEDRO II,Metrópole Paulista,,,,2026-11-09
+LINHA,3310,3746-10,METRÔ ITAQUERA,Metrópole Paulista,,,,2026-11-09
+LINHA,8000,8000-10,TERMINAL LAPA,Transppass,,,,2026-11-09
+PARADA,itaquera-01,4200953,"Av. Águia de Haia, 2100 (Itaquera)",Itaquera,-23.5245,-46.4752,True,2026-11-09
+PARADA,itaquera-02,4200954,Radial Leste / Metrô Itaquera,Itaquera,-23.5405,-46.4711,True,2026-11-09
+PARADA,tatuape-01,3400153,"Av. Celso Garcia, 3100 (Tatuapé)",Tatuapé,-23.5351,-46.5654,False,2026-11-09
+PARADA,penha-01,2100412,"Av. Condessa Elisabeth Robiano, 800",Penha,-23.521,-46.5412,False,2026-11-09
