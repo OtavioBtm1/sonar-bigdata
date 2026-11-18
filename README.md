@@ -2,11 +2,11 @@
 **FIAP Global Solution 2026.2 — Engenharia de Software (4º Ano - 4ES)**
 
 ## 1. Integrantes da Equipe
-* **Otávio Vitoriano da Silva** — RM: `[PREENCHER_RM]`
+* **Otávio Vitoriano da Silva** — RM: `552012`
 * **Rodrigo Viana** — RM: `[PREENCHER_RM]`
-* **`[Integrante 3]`** — RM: `[PREENCHER_RM]`
-* **`[Integrante 4]`** — RM: `[PREENCHER_RM]`
-* **`[Integrante 5]`** — RM: `[PREENCHER_RM]`
+* **Caique Chagas** — RM: `551943`
+* **Gabriel Torres** — RM: `98600`
+* **Eduardo Fedeli** — RM: `550132`
 
 ---
 
